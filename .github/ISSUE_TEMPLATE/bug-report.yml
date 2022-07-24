@@ -1,0 +1,90 @@
+name: Bug Report
+description: Report any errors, bugs or other behavior related issues here.
+labels: [ bug ]
+title: "[Bug] "
+assignees:
+  - timderspieler
+body:
+  - type: checkboxes
+    attributes:
+      label: Has this issue already been reported? Did you ask for help before making this report?
+      description: Please ask in the `#deluxecombat-support` channel in our [discord](https://discord.gg/ERVgpfg)
+      options:
+        - label: I have searched the existing issues
+          required: true
+        - label: I have asked for help
+          required: true
+  - type: checkboxes
+    attributes:
+      label: DeluxeCombat Version
+      description: |
+        You can check the version by typing in /version DeluxeCombat. After
+        that simply compare your version with the one that is displayed on the
+        ressource page. The page can be found [here](https://www.spigotmc.org/resources/63970/history)
+      options:
+        - label: I made sure that I am using the latest version of DeluxeCombat.
+        required: true
+      
+  - type: textarea
+    attributes:
+      label: Server Software / Version
+      description: |
+        Please specify which server software / version your server is using.
+        You can check the version by typing in /version.
+        (Please include the name of the software / fork!)
+      placeholder: e.g Paper v.1.19
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Your discord name
+      description: Please provide us your discord name so we can contact you
+      placeholder: e.g Tim#1234
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Current Behavior
+      description: A concise description of what you're experiencing.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: A concise description of what you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Enable this option
+        2. Drink this potion
+        3. Shoot a player
+        4. etc...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Frequency
+      description: How often does this bug occur.
+      placeholder: |
+        It happens 100% of the time/It only happens sometimes during x/It rarely ever happens and is hard to reproduce/etc
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Have a video? Screenshots? Any other important information? Please include it here.
+
+        Tip: You can "drag and drop" files into the text box to upload images, logs, videos, or other files.
+    validations:
+      required: false
