@@ -1,0 +1,45 @@
+name: Feature Request
+description: If you have features to request, post it here
+labels: [ enhancement ]
+assignees:
+  - timderspieler
+body:
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Explain what kind of feature you want to be added
+      value: |
+        Describe as well as you can about the feature you're requesting
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Category
+      description: |
+        Which category fits the best for this type of feature?
+      options:
+        - General
+        - PvP
+        - Combat
+        - Supported Plugins
+        - Ranking System
+        - Death
+        - Old PvP
+        - I am not sure
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Configuration
+      description: |
+        How do you imagine this feature would look like in /dc menu?
+      value: |
+        Toggle_Feature: Boolean Setting
+        Custom_Input_List: List Setting (World Selector)
+        Numbter_Setting: Integer Setting
+    validations:
+      required: true
