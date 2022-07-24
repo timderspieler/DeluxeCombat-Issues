@@ -22,8 +22,8 @@ body:
         that simply compare your version with the one that is displayed on the
         ressource page. The page can be found [here](https://www.spigotmc.org/resources/63970/history)
       options:
-        - label: I made sure that I am using the latest version of DeluxeCombat.
-        required: true
+        - label: I made sure that I am using the latest version of DeluxeCombat
+          required: true
       
   - type: textarea
     attributes:
