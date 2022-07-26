@@ -5,6 +5,7 @@
 Enhance your server today with an awesome combat system!
 
   [![Discord](https://img.shields.io/discord/306158221473742848.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/zSkcTz3)
+  [![SpigotMC Downloads](https://img.shields.io/spiget/downloads/63970?label=Spigot%20Downloads)](https://www.spigotmc.org/resources/63970/)
   ![Players](https://img.shields.io/bstats/players/5388?color=red&label=Players)
   ![Servers](https://img.shields.io/bstats/servers/5388?color=green&label=Servers)
   ![Supported Versions](https://img.shields.io/spiget/tested-versions/63970?label=Supported%20Minecraft%20Versions)
