@@ -14,7 +14,7 @@ Enhance your server today with an awesome combat system!
 Official repository for feature requests and bug reports related to DeluxeCombat
 
 ## Purchase now on
-* [SpigotMC](https://www.spigotmc.org/63970/)
+* [SpigotMC](https://www.spigotmc.org/resources/63970/)
 * [PolyMart](https://polymart.org/resource/1438)
 
 ## Quick Links
