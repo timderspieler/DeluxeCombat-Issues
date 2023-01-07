@@ -25,5 +25,24 @@ Official repository for feature requests and bug reports related to DeluxeCombat
 * [Bug Report / Feature Request](https://github.com/timderspieler/DeluxeCombat-Issues/issues/new/choose)
 
 ## API
-* [API Download](http://www.mediafire.com/file/hy4ik25e4joe2c7/DeluxeCombat_API.jar/file)
+
+#### Maven
+```
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+```
+```
+<dependency>
+  <groupId>com.github.timderspieler</groupId>
+  <artifactId>DeluxeCombat-API</artifactId>
+  <version>1.0</version>
+</dependency>
+```
+
+Version: [![](https://jitpack.io/v/timderspieler/DeluxeCombat-API.svg)](https://jitpack.io/#timderspieler/DeluxeCombat-API)
+
 * [API Documentation](https://timderspieler.gitbook.io/timderspieler-plugins/deluxecombat/api)
