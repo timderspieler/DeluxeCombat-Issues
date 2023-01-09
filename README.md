@@ -46,3 +46,10 @@ Official repository for feature requests and bug reports related to DeluxeCombat
 Version: [![](https://jitpack.io/v/timderspieler/DeluxeCombat-API.svg)](https://jitpack.io/#timderspieler/DeluxeCombat-API)
 
 * [API Documentation](https://timderspieler.gitbook.io/timderspieler-plugins/deluxecombat/api)
+
+
+
+
+[![https://swagalan.dev/revive/partners/banner1.gif](https://swagalan.dev/revive/partners/banner1.gif)]('https://billing.revivenode.com/aff.php?aff=322')
+
+Are you looking for an cheap and high quality minecraft server? Then please check out [ReviveNode]('https://billing.revivenode.com/aff.php?aff=322') and save 15% using the code **TIM**
