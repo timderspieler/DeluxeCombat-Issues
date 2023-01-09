@@ -52,4 +52,4 @@ Version: [![](https://jitpack.io/v/timderspieler/DeluxeCombat-API.svg)](https://
 
 [![https://swagalan.dev/revive/partners/banner1.gif](https://swagalan.dev/revive/partners/banner1.gif)]('https://billing.revivenode.com/aff.php?aff=322')
 
-Are you looking for an cheap and high quality minecraft server? Then please check out [ReviveNode]('https://billing.revivenode.com/aff.php?aff=322') and save 15% using the code **TIM**
+Are you looking for an cheap and high quality minecraft server? Then please check out [ReviveNode](https://billing.revivenode.com/aff.php?aff=322) and save 15% using the code **TIM**
