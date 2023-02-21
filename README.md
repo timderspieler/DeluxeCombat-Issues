@@ -39,7 +39,8 @@ Official repository for feature requests and bug reports related to DeluxeCombat
 <dependency>
   <groupId>com.github.timderspieler</groupId>
   <artifactId>DeluxeCombat-API</artifactId>
-  <version>1.0</version>
+  <version>VERISON</version>
+  <scope>provided</scope>
 </dependency>
 ```
 
